@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/monascape/column-of-3-frontend-mentor-challenge)
-- Live Site URL: [Add live site URL here](https://monascape.github.io/column-of-3-frontend-mentor-challenge)
+- Solution URL: (https://github.com/monascape/column-of-3-frontend-mentor-challenge)
+- Live Site URL: (https://monascape.github.io/column-of-3-frontend-mentor-challenge)
 
 ## My process
 
